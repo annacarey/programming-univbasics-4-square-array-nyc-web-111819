@@ -6,4 +6,4 @@ def square_array(array)
   end
 end
 
-puts square_array([2, 4])
+print square_array([2, 4])
